@@ -1,0 +1,3 @@
+[submodule "Libraries/submodule"]
+	path = Libraries/submodule
+	url = https://github.com/austinlange/submodule.git
